@@ -24,5 +24,16 @@ In this mindset, the hand you're dealt is just the starting point for developmen
 ![mind](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
 
 
+**how to keep yourself in a growth mindset**
+
+1.Find purpose
+
+2.Take on challenges
+
+3.Jot down goals
+
+4.View challenges as opportunities. 
+
+5.Acknowledge and embrace imperfections
 
 [Click here to read more about Growth Midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 👈
