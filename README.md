@@ -26,14 +26,16 @@ In this mindset, the hand you're dealt is just the starting point for developmen
 
 **how to keep yourself in a growth mindset**
 
-1.Find purpose
+1.Find purpose.
 
-2.Take on challenges
+2.Take on challenges.
 
-3.Jot down goals
+3.Jot down goals.
 
 4.View challenges as opportunities. 
 
-5.Acknowledge and embrace imperfections
+5.Acknowledge and embrace imperfections.
+
+6.Trust your self.
 
 [Click here to read more about Growth Midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 👈
