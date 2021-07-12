@@ -1,6 +1,6 @@
 # reading-notes
 
-[my github link](https://github.com/leenahmad) 
+[my github link](https://github.com/leenahmad) 👈
 
 my name is leen ahmad I'm 20 years old 
 i study software engineering in ASAC LTUC
@@ -25,4 +25,4 @@ In this mindset, the hand you're dealt is just the starting point for developmen
 
 
 
-[Click here to read more about Growth Midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Click here to read more about Growth Midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 👈
