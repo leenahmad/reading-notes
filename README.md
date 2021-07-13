@@ -10,5 +10,6 @@ i take this course because this course is so important and like to learn more ab
 Name | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset Link](https://leenahmad.github.io/reading-notes/)
-Read 01 | [read01 link](https://leenahmad.github.io/reading-notes/read01)
+MarkDown & GitHub | [markdown link](https://leenahmad.github.io/reading-notes/read01)
+Git | [Git link] (https://leenahmad.github.io/reading-notes/Read02)
 
