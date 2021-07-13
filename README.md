@@ -1,4 +1,4 @@
-# reading-notes
+# intro about me 
 
 [my github link](https://github.com/leenahmad) 👈
 
