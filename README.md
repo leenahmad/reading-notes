@@ -11,5 +11,5 @@ Name | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset Link](https://leenahmad.github.io/reading-notes/)
 MarkDown & GitHub | [markdown link](https://leenahmad.github.io/reading-notes/read01)
-Git | [Git link] (https://leenahmad.github.io/reading-notes/Read02)
+Git | [Git link](https://leenahmad.github.io/reading-notes/Read02)
 
