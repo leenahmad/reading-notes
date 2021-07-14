@@ -57,6 +57,5 @@ Semantic HTML elements are those that clearly describe their meaning in a human-
 
 * [read more about wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/)
  
-
 * [read more about Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
