@@ -13,5 +13,6 @@ Growth Mindset | [Growth Mindset Link](https://leenahmad.github.io/reading-notes
 MarkDown & GitHub | [markdown link](https://leenahmad.github.io/reading-notes/read01)
 Git | [Git link](https://leenahmad.github.io/reading-notes/Read02)
 HTML | [HTML](https://leenahmad.github.io/reading-notes/read03)
-JavaScript | [JavaScript]()
+JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read04)
+CSS | [CSS]()
 
