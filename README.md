@@ -25,7 +25,7 @@ Programming with JavaScript |[JavaScript](https://leenahmad.github.io/reading-no
 
 Name | Link
 ------------ | -------------
-Read01 | [read01](https://leenahmad.github.io/reading-notes/class-01)
+Read01 | 
 Read02 |
 Read03 | 
 Read04 | 
