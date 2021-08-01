@@ -17,3 +17,28 @@ JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read04)
 CSS | [CSS](https://leenahmad.github.io/reading-notes/read06)
 loops | [loop](https://leenahmad.github.io/reading-notes/read05)
 Programming with JavaScript |[JavaScript](https://leenahmad.github.io/reading-notes/read07)
+
+
+
+
+# *Code 201 Reading-Notes*
+
+Name | Link
+------------ | -------------
+Read01 | 
+Read02 |
+Read03 | 
+Read04 | 
+Read05 | 
+Read06 | 
+Read07 | 
+Read08 | 
+Read09 | 
+Read010 | 
+Read011 | 
+Read012 | 
+Read013 | 
+Read014 | 
+Read015 | 
+
+
