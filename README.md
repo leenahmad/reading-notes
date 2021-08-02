@@ -27,6 +27,7 @@ Name | Link
 ------------ | -------------
 Read01 | [read01](https://leenahmad.github.io/reading-notes/class-01)
 Read02 | [read02](https://leenahmad.github.io/reading-notes/class-02)
+Read02 | [read03](https://leenahmad.github.io/reading-notes/class-03)
 Read03 | 
 Read04 | 
 Read05 | 
