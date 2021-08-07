@@ -30,7 +30,7 @@ Read02 | [read02](https://leenahmad.github.io/reading-notes/class-02)
 Read03 | [read03](https://leenahmad.github.io/reading-notes/class-03)
 Read04 | [read04](https://leenahmad.github.io/reading-notes/class-04)
 Read05 | [read05](https://leenahmad.github.io/reading-notes/class-05)
-Read06 | 
+Read06 | [read06](https://leenahmad.github.io/reading-notes/class-05)
 Read07 | 
 Read08 | 
 Read09 | 
