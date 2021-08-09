@@ -13,7 +13,9 @@ HTML has several semantic elements that define the different parts of a web page
 - `<details>` - Defines additional details that the user can open and close on demand
 - `<summary>` - Defines a heading for the `<details>` element
 
+
 ### HTML Layout Techniques
+
 There are four different techniques to create multicolumn layouts. Each technique has its pros and cons:
 
 * CSS framework
