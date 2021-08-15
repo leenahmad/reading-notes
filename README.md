@@ -36,7 +36,7 @@ Read08 | [read08](https://leenahmad.github.io/reading-notes/class-08)
 Read09 | [read09](https://leenahmad.github.io/reading-notes/class-09)
 Read10 | [read10](https://leenahmad.github.io/reading-notes/class-10)
 Read11 | [read11](https://leenahmad.github.io/reading-notes/class-11)
-Read12 | 
+Read12 | [read12](https://leenahmad.github.io/reading-notes/class-12)
 Read13 | 
 Read14 | 
 Read15 | 
