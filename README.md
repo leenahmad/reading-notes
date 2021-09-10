@@ -17,7 +17,7 @@ HTML | [HTML](https://leenahmad.github.io/reading-notes/read03)
 JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read04)
 CSS | [CSS](https://leenahmad.github.io/reading-notes/read06)
 loops | [loop](https://leenahmad.github.io/reading-notes/read05)
-Programming with JavaScript |[JavaScript](https://leenahmad.github.io/reading-notes/read07)
+Programming with JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read07)
 
 
 
