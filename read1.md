@@ -65,7 +65,7 @@ Furthermore, props data is read-only, which means that data coming from the pare
 
 ## *What is the flow of props?*
 
-Props can only be passed to components in one-way (parent to child)
+The flow of the props is a uni-directional flow. (one way from parent to child)
 
 
 ![image](https://dmitripavlutin.com/static/6d14625626a323816b47d301a6319626/05127/cover.png)
