@@ -2,12 +2,13 @@
 
 ### **intro about me**
 
-my name is leen Ahmad I'm 20 years old from Amman, Jordan. I'm currently a second-year software engineering student at ASAC, 
+my name is leen Ahmad I'm 20 years old from Amman, Jordan. I'm currently a second-year software engineering student at ASAC,
 I decided to take this course because this course is so important and i like to learn about web development.
 
 [github link](https://github.com/leenahmad) 👈
 
 # *Code 102 - Intro to Software Development*
+
 Name | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset Link](https://leenahmad.github.io/reading-notes/)
@@ -18,9 +19,6 @@ JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read04)
 CSS | [CSS](https://leenahmad.github.io/reading-notes/read06)
 loops | [loop](https://leenahmad.github.io/reading-notes/read05)
 Programming with JavaScript | [JavaScript](https://leenahmad.github.io/reading-notes/read07)
-
-
-
 
 # *Code 201 - Foundations of Software Development*
 
@@ -42,10 +40,9 @@ Read13 | [read13](https://leenahmad.github.io/reading-notes/class-13)
 Read14a | [read14a](https://leenahmad.github.io/reading-notes/class-14a)
 Read14b | [read14b](https://leenahmad.github.io/reading-notes/class-14b)
 
-
-
 # *Code 301 - Intermediate Software Development*
 
-name | link 
+name | link
 ------------ | ------------
 Read01 | [read01](https://leenahmad.github.io/reading-notes/read1)
+Read02 | [read02](https://leenahmad.github.io/reading-notes/read2)
