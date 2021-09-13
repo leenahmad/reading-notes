@@ -46,3 +46,5 @@ name | link
 ------------ | ------------
 Read01 | [read01](https://leenahmad.github.io/reading-notes/read1)
 Read02 | [read02](https://leenahmad.github.io/reading-notes/read2)
+Read03 | [read03](https://leenahmad.github.io/reading-notes/read3)
+
