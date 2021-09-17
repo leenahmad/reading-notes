@@ -49,4 +49,4 @@ Read02 | [read02](https://leenahmad.github.io/reading-notes/read2)
 Read03 | [read03](https://leenahmad.github.io/reading-notes/read3)
 Read04 | [read04](https://leenahmad.github.io/reading-notes/read4)
 Read05 | [read05](https://leenahmad.github.io/reading-notes/read5)
-
+Read06 | [read06](https://leenahmad.github.io/reading-notes/read6)
